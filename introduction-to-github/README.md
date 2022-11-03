@@ -64,14 +64,14 @@ in the world of agile development.
 ## Learn repository parts: 
 
 Each repository has some tabs: 
-- Code tab.
-- Issues tab.
-- Pull requests tab.
-- Actions tab.
-- Projects tab.
-- Wiki tab.
-- Security tab.
-- Insights tab.
+- Code tab: holds the current branch code base.
+- Issues tab: holds the project issues opened by other developers or you.
+- Pull requests tab: holds the commits pull requests from a branch to another.
+- Actions tab: holds github actions for DevOps.
+- Projects tab: holds the project outline and tasks created by you.
+- Wiki tab: holds the project wikipedia created by you.
+- Security tab: not so relevant for now.
+- Insights tab: holds the community data including statistics of contributions, contribution rules and project licence.
 - Settings tab.
 
 ![image](https://user-images.githubusercontent.com/60224159/199722000-32ad209d-feae-41a6-a7d9-05f340ffc5a9.png)
