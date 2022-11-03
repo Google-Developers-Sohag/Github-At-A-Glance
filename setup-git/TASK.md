@@ -1,0 +1,12 @@
+### Task B (Doing your own stuff): 
+- [ ] Clone your git repository locally on your disk using `cd P:\Projects && git clone https://github.com/USER-NAME/Hello-World.git`.
+- [ ] Create a new branch using the `git checkout -b [branch-name] [base-branch]`.
+- [ ] Add some changes to the files.
+- [ ] Add your proposed changes via `git add [folder/files-to-add]`.
+- [ ] Commit your changes via `git commit -m '[your-message]'`.
+- [ ] Push your changes to the new git branch via `git push origin [branch-name]`.
+- [ ] View the new content on your branch via the browser.
+- [ ] Create a pull request from your git repository website.
+- [ ] Add a PR description, flags and development issues to be resolved.
+- [ ] Review the changed data in the proposed PR.
+- [ ] Merge the code into the base branch (master).
