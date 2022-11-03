@@ -30,6 +30,12 @@ The main repository branch is called the `master` branch and it holds the base c
 Each branch has a some `commits`, which represent the changes to the code from the master branch and those can synonmous to the new fearues
 in the world of agile development.
 
+A pull request: is basically a request made by a github-user to pull the code or file changes (represented by commits) from a branch to another (usually the master).
+
+A pull request must be reviewed by the team members or the project owners before merging into the master branch.
+
+A develop branch is a common use case for this.
+
 | `Github Repositores have a tree-like design` |
 |-------------------------------------------|
 | ![](https://github.com/Google-Developers-Sohag/Github-Training-Course/blob/github-intro/introduction-to-github/git-repos.png) |
