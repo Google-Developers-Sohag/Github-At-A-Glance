@@ -2,7 +2,7 @@
 
 ## Content :
 
-- [ ] [Introduction to github, repositories and git-branches with examples](https://docs.github.com/en/get-started/quickstart/hello-world).
+- [ ] [Introduction to github, repositories and git-branches with examples](https://github.com/Google-Developers-Sohag/Github-Training-Course/tree/master/introduction-to-github).
 - [ ] [Setup git on your machine](https://docs.github.com/en/get-started/quickstart/set-up-git).
 - [ ] [Managing your first repository](https://docs.github.com/en/get-started/quickstart/create-a-repo).
 - [ ] [Working from your browsers](https://docs.github.com/en/repositories/working-with-files/managing-files).
