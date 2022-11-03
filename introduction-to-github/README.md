@@ -28,7 +28,9 @@ The main repository branch is called the `master` branch and it holds the base c
 Each branch has a some `commits`, which represent the changes to the code from the master branch and those can synonmous to the new fearues
 in the world of agile development.
 
-![]()
+| `Github Repositores have a tree-like design` |
+|-------------------------------------------|
+| ![](https://github.com/Google-Developers-Sohag/Github-Training-Course/blob/github-intro/introduction-to-github/git-repos.png) |
 
 ## Create an empty repository on git:
 
