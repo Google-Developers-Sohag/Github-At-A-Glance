@@ -7,8 +7,13 @@
 - [ ] [Managing your first repository](https://docs.github.com/en/get-started/quickstart/create-a-repo).
 - [ ] [Working from your browsers](https://docs.github.com/en/repositories/working-with-files/managing-files).
 - [ ] [Working with branches, pull requests and code reviews to maximize your git skills](https://docs.github.com/en/get-started/quickstart/github-flow).
+- [ ] [Undoing pushed and non-pushed commits]().
 - [ ] [Contributing to open source projects](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).
 - [ ] [Communication ways in OSS world](https://docs.github.com/en/get-started/quickstart/communicating-on-github).
+- [ ] [Open source licences and code of conduct]().
+- [ ] [Releasing projects]().
+- [ ] [Github Wiki]().
+- [ ] [Introduction to DevOps using Github actions]().
 - [ ] [Git commands cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf).
 
 ## Tasks: 
