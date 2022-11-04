@@ -21,6 +21,12 @@
 
 Access tokens: replaces your passowrd for specific operations defined by some security permissions.
 
+## Define git user config on your local machine:
+
+```bash
+$ git config user.email="scrappers.tm@gmail.com" && git config user.name="pavl_g"
+```
+
 ## Hands on git api:
 
 #### `$ git <command> [<options>, <args>]`
