@@ -61,12 +61,19 @@ Examples:
 ```bash
 $ git rebase master session-info # rebases (redirects the divergency of) the session-info on top of the last commit on the master branch
 ```
-This the change: 
-
-![image](https://user-images.githubusercontent.com/60224159/199960836-94af5797-b536-4eac-a2b8-c2eefe27f3ca.png) `--->` ![image](https://user-images.githubusercontent.com/60224159/199961344-23087826-cce8-4375-812b-ff7fd6669fe8.png)
+This is the change: 
+| `Before rebasing` | `After rebaisng` |
+|-------------------|------------------|
+| ![image](https://user-images.githubusercontent.com/60224159/199960836-94af5797-b536-4eac-a2b8-c2eefe27f3ca.png) | ![image](https://user-images.githubusercontent.com/60224159/199961344-23087826-cce8-4375-812b-ff7fd6669fe8.png) |
 
 Now the base of where the branch [sesssion-info] diverges is from the last commit `G` of the master branch.
 
 ```bash
 $ git pull origin session-info # pulls the commits with the changes from the remote repository to the local repository
 ```
+
+This is the change: 
+| `Before pulling` | `After pulling` |
+|------------------|-----------------|
+| <img src="https://user-images.githubusercontent.com/60224159/199982979-029073cb-aac4-4023-810f-a75d3445344b.png" width=450 height=150></img> | <img src="https://user-images.githubusercontent.com/60224159/199981645-c63659fe-e84a-4a05-9fa8-453aaab89dd6.png" width=450 height=150></img> |
+
