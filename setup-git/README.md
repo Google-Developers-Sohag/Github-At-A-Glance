@@ -17,6 +17,8 @@
 
 ## Hands on git api:
 
+#### `$ git <command> [<options>, <args>]`
+
 - Clone the repository `Hello-World`, that you have created from [Introduction-to-github]() part using `git`.
 
 ![image](https://user-images.githubusercontent.com/60224159/199841859-7b9b930a-9c72-4e23-bed5-9ea03c497de4.png)
