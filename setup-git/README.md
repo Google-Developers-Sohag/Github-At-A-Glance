@@ -15,6 +15,12 @@
 
 [Git-Client-Side-API Documentation](https://git-scm.com/docs)
 
+## Create an access token:
+
+![image](https://user-images.githubusercontent.com/60224159/199989374-36693731-959a-473d-8c5d-3ffb589d041d.png)
+
+Access tokens: replaces your passowrd for specific operations defined by some security permissions.
+
 ## Hands on git api:
 
 #### `$ git <command> [<options>, <args>]`
