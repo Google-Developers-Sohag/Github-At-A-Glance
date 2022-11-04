@@ -1,6 +1,6 @@
 # Contribution depot: 
 
-## Prerequisite:
+## Prerequisites:
 
 - Contributor should be familiar with github and git.
 - Contributor should have a minimal knowledge about markdown or a markup language.
