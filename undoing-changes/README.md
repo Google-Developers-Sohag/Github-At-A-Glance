@@ -1,5 +1,7 @@
 # Un-doing changes
 
+### `$  git reset [--soft | --mixed [-N] | --hard | --merge | --keep] [-q] [<commit>]`
+
 | `Soft Reset` | 
 |-------------|
 | Resets to a commit keeping the file changes stashed (false reset). |
