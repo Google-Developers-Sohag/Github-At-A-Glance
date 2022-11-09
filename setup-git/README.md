@@ -31,7 +31,7 @@ $ git config user.email="scrappers.tm@gmail.com" && git config user.name="pavl_g
 
 #### `$ git <command> [<options>, <args>]`
 
-- Clone the repository `Hello-World`, that you have created from [Introduction-to-github]() part using `git`.
+- Clone the repository `Hello-World`, that you have created from [Introduction-to-github](https://github.com/Google-Developers-Sohag/Github-At-A-Glance/tree/master/introduction-to-github#create-an-empty-repository-on-git) part using `git`.
 
 ![image](https://user-images.githubusercontent.com/60224159/199841859-7b9b930a-9c72-4e23-bed5-9ea03c497de4.png)
 
