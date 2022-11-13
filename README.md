@@ -6,7 +6,7 @@
 - [ ] [Hands on git client-side api](https://github.com/Google-Developers-Sohag/Github-Training-Course/tree/master/setup-git).
 - [ ] [Repositories management](https://github.com/Google-Developers-Sohag/Github-Training-Course/tree/master/managing-repositories).
 - [ ] [Stashing changes]().
-- [ ] [Undoing pushed and non-pushed commits]().
+- [ ] [Undoing pushed and non-pushed commits](https://github.com/Google-Developers-Sohag/Github-At-A-Glance/tree/master/undoing-changes).
 - [ ] [Open source licences and code of conduct]().
 - [ ] [Releasing projects]().
 - [ ] [Github Wiki]().
