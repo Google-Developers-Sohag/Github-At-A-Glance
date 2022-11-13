@@ -191,3 +191,8 @@ HEAD is now at cb193cb Update README.md
 ```
 As you can see, the hard reset, changes the core file changes in addition to the commit data, and reverting back the hard reset will return 
 the files and the commits unchanged.
+
+Here is what happens exactly beneath the hood: 
+
+![image](https://user-images.githubusercontent.com/60224159/201545019-98e34751-38b9-4fe3-a458-d27edfbbd4be.png)
+
