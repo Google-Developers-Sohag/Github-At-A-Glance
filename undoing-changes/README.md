@@ -2,6 +2,8 @@
 
 ### `$  git reset [--soft | --mixed [-N] | --hard | --merge | --keep] [-q] [<commit>]`
 
+### Soft-Reset:
+
 | `Soft Reset` | 
 |-------------|
 | Resets to a commit keeping the file changes stashed (false reset). |
@@ -93,6 +95,8 @@ Date:   Thu Nov 3 14:16:21 2022 +0200
 
 ```
 As you can see, only the data of the logs has changed by doing a soft reset, the file README.md hasn't changed !
+
+### Hard-Reset:
 
 | `Hard Reset` |
 |--------------|
